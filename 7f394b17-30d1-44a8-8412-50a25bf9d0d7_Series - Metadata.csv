@@ -1,0 +1,28 @@
+Country Name,Country Code,Series Name,Series Code,1995 [YR1995],1996 [YR1996],1997 [YR1997],1998 [YR1998],1999 [YR1999],2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022]
+Benin,BEN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,1.417,1.34,1.249,1.171,1.081,0.994,0.91,0.827,0.984,1.132,1.298,1.444,1.592,1.766,1.959,2.141,5.461,5.209,4.948,4.75,4.618,4.369,4.107,3.867,3.89,4.47,4.325,4.179
+Benin,BEN,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,2.51799,..,..,..,..,2.38999,..,..,..,..,6.61282,..,..,..,..,8.09811,..,..,..,8.34555,..,..,..
+"Congo, Rep.",COG,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,37.428,37.669,38.044,38.178,38.575,38.555,38.893,39.143,39.512,39.701,39.848,39.803,40.153,39.766,39.601,39.655,39.788,39.527,39.758,39.504,39.704,39.817,39.552,39.465,39.24,42.8,41.415,40.767
+"Congo, Rep.",COG,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,2.83255,..,..,..,..,3.02925,..,..,..,..,4.65036,..,..,..,..,5.67254,..,..,..,6.39562,..,..,..
+Ethiopia,ETH,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,4.764,4.887,5.119,5.331,5.42,5.114,4.799,4.543,4.264,3.87,3.584,3.567,3.541,3.523,3.512,3.472,3.462,3.46,3.436,3.722,4.012,4.305,4.6,4.899,5.201,6.647,6.135,6.327
+Ethiopia,ETH,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,1.20279,..,..,..,..,1.39794,..,..,..,..,1.66882,..,..,..,..,2.51883,..,..,..,3.36259,..,..,..
+Kenya,KEN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,6.821,6.852,6.948,6.896,6.929,6.971,6.906,6.985,6.943,6.912,6.917,6.934,6.962,7.149,7.122,7.061,7.175,7.236,7.297,7.307,7.338,7.374,9.048,10.689,12.43,13.83,13.475,13.352
+Kenya,KEN,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,2.15626,..,..,..,..,2.15478,..,..,..,..,2.51236,..,..,..,..,2.781,..,..,..,2.86537,..,..,..
+Uganda,UGA,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,5.474,5.54,5.636,5.653,5.597,5.706,5.667,5.594,5.691,4.325,2.987,3.568,4.221,4.83,5.472,5.4,5.243,5.252,2.662,3.373,4.091,4.816,5.567,5.539,5.571,7.083,6.541,6.578
+Uganda,UGA,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,17.78958,..,..,..,..,17.15943,..,..,..,..,13.99821,..,..,..,..,13.28192,..,..,..,12.2144,..,..,..
+Mali,MLI,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,2.427,2.362,2.359,2.324,2.325,2.353,2.239,2.31,2.262,2.304,2.267,2.271,2.27,2.255,2.247,2.236,2.236,2.248,2.216,2.174,2.158,2.142,2.233,2.322,2.347,6.737,4.19,4.489
+Mali,MLI,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,0.81598,..,..,..,..,0.77394,..,..,..,..,3.4041,..,..,..,..,4.58867,..,..,..,4.34772,..,..,..
+Mozambique,MOZ,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,5.67,5.57,5.584,5.701,5.78,6.009,5.968,6.093,6.208,6.275,6.37,6.409,6.511,6.598,6.696,6.78,6.856,6.948,7.042,7.127,7.231,7.27,7.276,7.29,7.319,8.049,8.034,8.052
+Mozambique,MOZ,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,1.09,..,..,..,..,1.04532,..,..,..,..,1.23083,..,..,..,..,1.75973,..,..,..,2.02949,..,..,..
+"Gambia, The",GMB,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,12.293,12.311,12.301,12.371,12.354,12.41,12.442,12.663,12.506,12.556,12.803,12.821,12.802,12.791,12.839,12.912,13.266,13.043,12.12,11.222,10.149,9.203,8.184,7.18,7.272,8.851,8.325,8.062
+"Gambia, The",GMB,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,3.73916,..,..,..,..,3.82935,..,..,..,..,3.16961,..,..,..,..,2.07011,..,..,..,1.11406,..,..,..
+Tunisia,TUN,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",SL.UEM.1524.ZS,30.901,31.105,31.656,31.281,30.808,30.549,29.771,30.412,30.791,30.632,28.042,27.733,27.911,28.435,30.849,29.331,42.254,38.198,34.68,36.909,35.052,35.245,35.466,35.976,35.339,38.509,37.312,37.133
+Tunisia,TUN,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",SH.ALC.PCAP.LI,..,..,..,..,..,1.6287,..,..,..,..,1.70784,..,..,..,..,1.66206,..,..,..,..,2.02867,..,..,..,2.01463,..,..,..
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
